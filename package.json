@@ -35,8 +35,8 @@
     "url": "https://github.com/Ircam-RnD/serveSofaHrir"
   },
   "engines": {
-    "node": "0.12 || 4",
-    "npm": ">=1.0.0 <3.0.0"
+    "node": ">=4.0.0",
+    "npm": ">=6.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.5.1",
